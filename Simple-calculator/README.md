@@ -1,8 +1,8 @@
 ## Operator
-- 1 = plus
-- 2 = minus
-- 3 = times
-- 4 = divide
+- 1 = Plus
+- 2 = Minus
+- 3 = Mimes
+- 4 = Mivide
 
 ## Version
 ### v1.0
