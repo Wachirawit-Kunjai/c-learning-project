@@ -1,5 +1,7 @@
-1 = plus\n
-2 = minus\n
-3 = times\n
-4 = divide\n
-v1 simple calculator 
+1 = plus
+2 = minus
+3 = times
+4 = divide
+
+v1 
+simple calculator 
