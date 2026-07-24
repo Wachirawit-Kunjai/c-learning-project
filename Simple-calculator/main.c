@@ -6,6 +6,8 @@ int main()
 
     while (1)
     {
+
+        printf("\n-------------------------\n");
         printf("Enter the first number\n");
         scanf("%d", &n1);
         printf("Enter the operator\n");
@@ -31,7 +33,7 @@ int main()
             printf("%d ÷ %d = %.2f\n", n1, n2, sum);
             break;
         default:
-            printf("Invalid");
+            printf("Invalid operator! Please try again.\n");
             break;
         }
     }
