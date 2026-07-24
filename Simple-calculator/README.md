@@ -6,5 +6,7 @@
 
 4 = divide
 
-v1 
-simple calculator 
+## Version
+### v1.0
+- Create basic calculator
+- Support + - * /
